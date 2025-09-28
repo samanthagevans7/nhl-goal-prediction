@@ -1,5 +1,6 @@
 # Predicting NHL Goal Probabilities with Machine Learning
-this prject explores NHL shot data from [MoneyPuck.com](https://moneypuck.com) to build models that predict goal probabilities.
+This prject explores NHL shot data from [MoneyPuck.com](https://moneypuck.com) to build models that predict goal probabilities.
+
 Starting with exploratory data analysis (EDA) and logistic regression, the project progresses towards more advanced machine learning models.
 
 ---
@@ -47,5 +48,7 @@ The data used in this project is from [MoneyPuck.com](https://moneypuck.com).
 ## Author
 
 Samantha Evans
+
 LinkedIn: https://www.linkedin.com/in/samantha-evans-phd-4b845816a/
+
 Website: https://samanthagevans7.wixsite.com/samantha-evans
