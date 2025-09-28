@@ -21,14 +21,14 @@ Starting with exploratory data analysis (EDA) and logistic regression, the proje
 
 ```
 nhl-goal-prediction/
-notebooks/
-01_HockeyEDA.ipynb
-02_HockeyLogR_basic.ipynb
-03_HockeyLogR_depth.ipynb
-data/
-MoneyPuck_Shot_Data_Dictionary.csv
-README.md
-requirements.txt
+  notebooks/
+    01_HockeyEDA.ipynb
+    02_HockeyLogR_basic.ipynb
+    03_HockeyLogR_depth.ipynb
+  data/
+      MoneyPuck_Shot_Data_Dictionary.csv
+  README.md
+  requirements.txt
  ```
 
 ## Data
