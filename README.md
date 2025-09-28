@@ -19,7 +19,7 @@ Starting with exploratory data analysis (EDA) and logistic regression, the proje
 
 ## Repository Structure
 
-```text nhl-game-prediction/ ├── notebooks/ │ ├── 01_exploratory_analysis.ipynb │ ├── 02_basic_logistic_regression.ipynb │ └── 03_refined_logistic_regression.ipynb ├── data/ │ └── MoneyPuck_Shot_Data_Dictionary.csv ├── README.md └── requirements.txt ```
+```nhl-game-prediction/ ├── notebooks/ │ ├── 01_exploratory_analysis.ipynb │ ├── 02_basic_logistic_regression.ipynb │ └── 03_refined_logistic_regression.ipynb ├── data/ │ └── MoneyPuck_Shot_Data_Dictionary.csv ├── README.md └── requirements.txt```
 
 ## Data
 
