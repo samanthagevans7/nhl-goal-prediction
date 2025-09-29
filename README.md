@@ -5,7 +5,7 @@ Starting with exploratory data analysis (EDA) and logistic regression, the proje
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 - **Goal:** Predict whether a shot will be a goal using NHL shot data.  
 - **Current Status:**  
   - Completed EDA on shot data.  
